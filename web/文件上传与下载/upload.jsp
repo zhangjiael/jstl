@@ -17,5 +17,6 @@
         头像： <input type="file" name="photo"> <br>
         <input type="submit" value="上传">
     </form>
+    hello git test
 </body>
 </html>
